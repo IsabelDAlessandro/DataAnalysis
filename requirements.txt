@@ -1,0 +1,7 @@
+pandas
+ __future__ 
+numpy
+os
+matplotlib.pyplot
+scipy
+seaborn
